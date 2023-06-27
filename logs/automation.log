@@ -1,0 +1,152 @@
+13:14:45.421 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+13:14:50.394 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+13:14:55.051 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+13:14:56.254 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+13:14:58.284 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+13:14:58.439 [main] INFO  stepDefenitions.Steps - User navigated to My Account page successfully
+13:14:59.135 [main] INFO  stepDefenitions.Steps - Clicked on Logout button
+13:14:59.135 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Completed
+13:34:30.262 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+13:34:35.290 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+13:34:40.531 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+13:34:41.535 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+13:34:42.801 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+13:34:53.080 [main] INFO  stepDefenitions.Steps - Login is not successful
+14:48:15.155 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+14:48:21.505 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+14:48:22.012 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+14:48:22.770 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+14:48:23.981 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+14:48:24.140 [main] INFO  stepDefenitions.Steps - User navigated to My Account page successfully
+14:48:27.990 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+14:48:34.596 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+14:48:35.346 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+14:48:35.795 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+14:48:36.968 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+14:48:47.043 [main] INFO  stepDefenitions.Steps - Login is not successful
+14:48:51.662 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+14:48:58.189 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+14:48:58.764 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+14:48:59.159 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+14:48:59.962 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+14:49:00.071 [main] INFO  stepDefenitions.Steps - User navigated to My Account page successfully
+15:22:27.542 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+15:22:32.404 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:22:33.060 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:22:37.681 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+15:22:43.763 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:22:44.433 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:22:48.166 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+15:22:54.979 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:22:55.578 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:22:58.695 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+15:23:04.410 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:23:05.207 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:23:08.520 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+15:23:16.777 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:23:17.393 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:26:28.946 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+15:26:35.090 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:26:35.672 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:26:42.805 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+15:26:49.661 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:26:50.243 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:26:55.028 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+15:27:00.899 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:27:01.400 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:27:05.981 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+15:27:13.435 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:27:14.568 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:27:19.191 [main] INFO  stepDefenitions.Steps - Scenario: Successful login with Valid credentials - Started
+15:27:25.094 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:27:25.819 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:31:12.236 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:31:13.296 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:31:29.831 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+15:31:30.150 [main] INFO  stepDefenitions.Steps - Login is successful with valid data
+15:31:31.270 [main] INFO  stepDefenitions.Steps - Clicked on logout
+15:32:26.932 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:32:27.985 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:32:35.482 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+15:32:35.633 [main] INFO  stepDefenitions.Steps - Login is successful with valid data
+15:32:36.293 [main] INFO  stepDefenitions.Steps - Clicked on logout
+15:33:00.388 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:33:02.138 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:33:13.828 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+15:33:24.061 [main] INFO  stepDefenitions.Steps - Login is not successful with valid data
+15:33:35.788 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:33:36.860 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:33:38.984 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+15:33:39.107 [main] INFO  stepDefenitions.Steps - Login is successful with valid data
+15:33:39.858 [main] INFO  stepDefenitions.Steps - Clicked on logout
+15:33:51.414 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:33:52.007 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:33:59.936 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+15:34:09.993 [main] INFO  stepDefenitions.Steps - Login is not successful with valid data
+15:34:32.378 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:34:32.865 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:34:36.768 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+15:34:47.077 [main] INFO  stepDefenitions.Steps - Login is not successful with valid data
+15:51:57.550 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:51:58.080 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:51:58.900 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+15:51:59.952 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+15:52:10.075 [main] INFO  stepDefenitions.Steps - Login is not successful
+15:52:36.846 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:52:37.437 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:52:38.303 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+15:52:39.300 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+15:52:39.411 [main] INFO  stepDefenitions.Steps - User navigated to My Account page successfully
+15:52:52.741 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:52:53.688 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:52:54.051 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+15:52:55.815 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+15:53:05.842 [main] INFO  stepDefenitions.Steps - Login is not successful
+15:53:17.507 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+15:53:17.961 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+15:53:18.653 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+15:53:20.474 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+15:53:20.601 [main] INFO  stepDefenitions.Steps - User navigated to My Account page successfully
+17:10:21.225 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+17:10:47.481 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+17:10:50.598 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+17:10:52.361 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+17:11:02.641 [main] INFO  stepDefenitions.Steps - Login is not successful
+17:11:40.807 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+17:11:41.317 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+17:11:42.358 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+17:11:43.363 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+17:11:43.497 [main] INFO  stepDefenitions.Steps - User navigated to My Account page successfully
+17:11:56.347 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+17:11:57.051 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+17:11:57.537 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+17:11:58.865 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+17:12:08.956 [main] INFO  stepDefenitions.Steps - Login is not successful
+17:12:19.908 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+17:12:20.501 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+17:12:20.973 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+17:12:21.911 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+17:12:21.985 [main] INFO  stepDefenitions.Steps - User navigated to My Account page successfully
+18:13:34.821 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+18:13:35.434 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+18:13:36.035 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+18:13:39.116 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+18:13:39.601 [main] INFO  stepDefenitions.Steps - User navigated to My Account page successfully
+18:13:43.183 [main] INFO  stepDefenitions.Steps - Clicked on Logout button
+18:15:25.162 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+18:15:26.169 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+18:15:42.802 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+18:15:44.121 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+18:15:44.283 [main] INFO  stepDefenitions.Steps - User navigated to My Account page successfully
+18:59:24.947 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+18:59:26.018 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+18:59:28.099 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+18:59:29.231 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+18:59:29.442 [main] INFO  stepDefenitions.Steps - User navigated to My Account page successfully
+18:59:36.487 [main] INFO  stepDefenitions.Steps - Clicked on Logout button
+19:11:36.986 [main] INFO  stepDefenitions.Steps - Clicked on My Account menu
+19:11:39.016 [main] INFO  stepDefenitions.Steps - Clicked on Login option
+19:11:41.413 [main] INFO  stepDefenitions.Steps - Entered email and password for logging in
+19:11:42.215 [main] INFO  stepDefenitions.Steps - Clicked on Login button
+19:11:42.351 [main] INFO  stepDefenitions.Steps - User navigated to My Account page successfully
+19:11:43.362 [main] INFO  stepDefenitions.Steps - Clicked on Logout button
